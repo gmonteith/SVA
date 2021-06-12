@@ -31,9 +31,9 @@ MetricWars.pdf| History of metrics designed to measure economic value
 I use a Debian system so I will presume that if your system is different you
 can follow along from the Debian instructions.
 
-You will require groff and grap:
+You will require groff:
 
-`sudo apt-get	install groff grap`
+`sudo apt-get	install groff`
 
 ---
 
