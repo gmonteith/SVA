@@ -45,8 +45,8 @@ You will also require a pdf viewer, I use both evince and zathura:
 ---
 
 ## Usage
-To recreate the pdf "sav-jd.pdf" and view it from inside the directory where
-you have downloaded the repo,  you can simply type:
+To recreate the pdf *sav-jd.pdf* and view it from inside the directory where
+you have downloaded the repo, you can simply type:
 
 `. create-pdf; zathura sav-jd.pdf`
 
