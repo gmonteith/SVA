@@ -5,9 +5,11 @@
 ## Description:
 This is a brief analysis of Deere's SVA, with a particular focus on Europe,
 which I wrote up having had a conversation with a erstwhile colleague and
-friend from John Deere International. The paper takes a high level view of the
-challenge of the European division of Deere achieving the same level of SVA as
-the US operation.
+friend from John Deere International.
+
+The paper takes a high level view of the challenge of the European division of
+Deere achieving the same level of SVA as the US operation.
+
 ---
 
 ## Files:
