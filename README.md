@@ -10,6 +10,12 @@ friend from John Deere International.
 The paper takes a high level view of the challenge of the European division of
 Deere achieving the same level of SVA as the US operation.
 
+The document has been written using the groff document formatting system with
+the ms macro package and the preprocessors eqn and pic.
+
+If you wish to view the pdf derived from the groff file please click this
+[link](https://1drv.ms/u/s!AoOgbX-hORgAbURCh_B81JfDlzo?e=bIn5IV)
+
 ---
 
 ## Files:
